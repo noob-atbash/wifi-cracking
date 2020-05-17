@@ -123,7 +123,7 @@ root@kali:~#
 
 Sometimes while creating the fake AP you may get an error related to iptables so we running some commands to flush it.
 
-**NOTE: We need configuration files for hostapd and dnsmasq you can get the configuration file from our [Github](https://github.com/noob-atbash) repo just download it and keep this in folder to illustrate further attack I have kept my conf file in the folder named fake-ap
+**NOTE: We need configuration files for hostapd and dnsmasq you can get the configuration file from our [Github](https://github.com/noob-atbash/wifi-cracking/tree/master/config-files) repo just download it and keep this in folder to illustrate further attack I have kept my conf file in the folder named fake-ap
 (/root/Downloads/fake-ap) feel free to set your own folder name but be careful while running commands.**
 
 Before starting  **dnsmasq**. we need you go to your downloads directory and and in the folder where we kept our  'dnsmasq.conf' file and  customize up to your requirements  and  incase you don't understand what to do in there their is an detailed explanation of .conf file inside it.
@@ -180,7 +180,7 @@ Now to handel(404) error  page  for all systems (Except ios device ) add rule at
 
 ![](img/cp/cp3.jpeg)
 
-In order to handel error for ios device write the below rules shown in image you can find all these rules in our Github repo.
+In order to handel error for ios device write the below rules shown in image you can find all these rules in our [Github repo](https://github.com/noob-atbash/wifi-cracking/tree/master/config-files).
 
 ![](img/cp/cp4.jpeg)
 
