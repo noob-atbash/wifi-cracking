@@ -257,6 +257,6 @@ inside that search for post request inside that you will get credentials.
 
 >I know this process is quite long and little bit difficult to understand, Yes we can use any specific tool which do all this heavy liftings for us  but the purpose behind this post was to make you aware on the core concept of fake  ACCESS POINT and all those tools are also built on this concept only, and by using the concept of fake access point cracking of WPA Enterprise become easy.
 
-Link to [Part-4](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP4.md)
+Link to [Part-4](https://github.com/noob-atbash/wifi-cracking/blob/master/wifi-crackingP4.md)
 
 **AUTHOR** - [Error](https://github.com/Error-200)
