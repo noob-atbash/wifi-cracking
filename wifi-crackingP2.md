@@ -1,4 +1,7 @@
-# Wifi-Cracking (Part-2) [ WPA/WPA2 CRACKING]
+# Wifi-Cracking (Part-2)  
+ 
+ #### [ WPA/WPA2 CRACKING]
+ ---
 
 
 This is part-2 on wifi-cracking and in this writeup we will be discussing on WPA/WPA2 networks.
@@ -221,3 +224,5 @@ c:\hashcat-3.6.0> hashcat.exe -m 2500 -d 1 handshake.hccapx wordlist.txt
 You can use p and r to pause and resume the process you will see how fast it works
 
 Your JOB will be done very fast as compare to CPU.
+
+**AUTHOR** - [Error](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP2.md)
