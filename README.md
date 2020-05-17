@@ -159,7 +159,7 @@ Now if you go to wifi-settings and you will be able to connect to it because now
 
 - Link to [Part-2](https://github.com/noob-atbash/wifi-cracking/blob/master/wifi-crackingP2.md)
 - Link to [Part-3](https://github.com/noob-atbash/wifi-cracking/blob/master/wifi-crackingP3.md)
-- Link to [Part-4](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP4.md)
+- Link to [Part-4](https://github.com/noob-atbash/wifi-cracking/blob/master/wifi-crackingP4.md)
 
 
 **AUTHOR** - [Error](https://github.com/Error-200)
