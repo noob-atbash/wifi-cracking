@@ -1,3 +1,0 @@
-# wifi-cracking
-
-Test
