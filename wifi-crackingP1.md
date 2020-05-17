@@ -1,4 +1,7 @@
-# Wifi-Cracking (Part-1) [ HIDDEN NETWORKS / MAC FILTERING]
+# Wifi-Cracking (Part-1)   
+
+#### [ HIDDEN NETWORKS / MAC FILTERING]
+---
 
 
 In this writeup we are going to learn how to gain access on networks and bypass their security features , we will be covering  following types of networks:
@@ -152,4 +155,8 @@ root@kali:~# macchanger -m 80:E9:59:77:4F:99 wlan0
 this command will to do the job see if you get any error or you want to change MAC Address in different way you can do it
 Now if you go to wifi-settings and you will be able to connect to it because now you are in the whitelist.
 
-Hope you learn something intersting just keep moving link to [Part-2]()
+
+Link to [Part-2](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP2.md)
+
+
+**AUTHOR** - [Error](https://github.com/Error-200)
