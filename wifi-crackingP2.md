@@ -225,6 +225,6 @@ You can use p and r to pause and resume the process you will see how fast it wor
 
 Your JOB will be done very fast as compare to CPU.
 
-Lint to [Part-3](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP3.md)
+Lint to [Part-3](https://github.com/noob-atbash/wifi-cracking/blob/master/wifi-crackingP3.md)
 
 **AUTHOR** - [Error](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP2.md)
