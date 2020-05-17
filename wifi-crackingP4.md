@@ -1,4 +1,7 @@
-# Wifi-Cracking (Part-4) [WPA ENTERPRISE]
+# Wifi-Cracking (Part-4) 
+
+#### [WPA ENTERPRISE]
+---
 
 In our earlier writeups I have discussed how to gain access on WPA/WPA2 networks so all WPA/WPA2 networks use PSK(pre shared key) authetication there is only one key which is used to authenticate users and router manages authetication so in this post we are going discusse on **WPA ENTERPRISE** which is an another form of authentication as from name we can depict thats is is used on large scale like universities but here each user get their **own** key to connect to the network which makes it more secured because traffic encrypted for each user is based on their unique key and if you want to remove any specific user you don't need to change the key of router just remove there key from authentication server  and authetication is managed through through a **central server**.
 
@@ -47,3 +50,6 @@ root@kali:~# asleap -C ( challenge you got ) -R ( response you got ) -W  /root/w
 
 ```
 >Either create wordlist by using crunch or download some powerful wordlist from the internet(some links are there in resources) and specify its location and if everyting goes fine you will get a perfect result
+
+
+**AUTHOR** - [Error](https://github.com/Error-200)
