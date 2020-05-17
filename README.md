@@ -89,6 +89,7 @@ root@kali:~# service network-manager start
 ```
 
 ![](img/access/g1.jpeg)
+
 Now,
 - Go to your wifi options select the options *connect to hidden wifi network*
 - select security option and write the name you got.
@@ -156,9 +157,9 @@ this command will to do the job see if you get any error or you want to change M
 Now if you go to wifi-settings and you will be able to connect to it because now you are in the whitelist.
 
 
-Link to [Part-2](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP2.md)
-Link to [Part-2](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP3.md)
-Link to [Part-2](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP4.md)
+- Link to [Part-2](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP2.md)
+- Link to [Part-3](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP3.md)
+- Link to [Part-4](https://github.com/noob-atbash/wifi-cracking/edit/master/wifi-crackingP4.md)
 
 
 **AUTHOR** - [Error](https://github.com/Error-200)
